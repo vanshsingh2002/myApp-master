@@ -9,7 +9,7 @@ Here are some steps to run this project:
 1. Clone the project
 
 ```
-git clone https://github.com/RaiyanArsh/myApp.git
+git clone https://github.com/vanshsingh2002/myApp-master.git
 ```
 
 2. Download node_modules
